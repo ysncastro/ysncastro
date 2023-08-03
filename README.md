@@ -170,7 +170,7 @@
 </table>
 <br/>
 <img align="center" src="./images/redes-noco.png" width="100%" alt="Título da seção Contato" />
-<br/><br/>
+<br/>
 <p align="center">
     <a href="https://www.youtube.com/channel/UCYRnsNOlPGPYVEsp2Rzl-EA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/station.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -178,11 +178,10 @@
   <a href="https://www.linkedin.com/in/castro-yasmin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </p>
-<br/><br/>
-<hr/>
+<br/>
 
 <img align="center" src="./images/projetos-novo.png" width="100%" alt="Título da seção Projetos" />
-<table height="100px" align="center">
+<table height="90px" align="center">
   <tr>
     <td>
     <a align="center" href="https://github.com/ysncastro/portifolio-leticia-cruz-psicologa" target="_blank">
