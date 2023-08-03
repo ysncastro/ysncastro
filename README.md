@@ -10,7 +10,7 @@
 
 <br/>
 <img align="center" src="./images/tecnologias-novo.png" width="100%" alt="Título da seção Minha Stack" />
-<table align="center" height="255px">
+<table align="center" height="290px">
   <tr>
     <td align="center">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
