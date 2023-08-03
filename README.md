@@ -2,13 +2,13 @@
 <img align="center" src="./images/sobre-mim-novo.png" width="100%" alt="Título da seção Sobre Mim" />
 <img align="right" src="./images/lofi-girl.gif" border="2" width="372px" height="278px" alt="Garoto sentado em frente a um monitor em um quarto escuro" />
 <ul>
-  <li>💻 Opa!! Meu nome é Yasmin, tenho 17 anos e atualmente trabalho como dev júnior full stack na <a href="https://www.linkedin.com/company/dbserver/mycompany/">DB</a>.</li>
-  <li>🔭 No momento, minhas tecnologias mais consolidadas pelo manuseio diário no time são Java + Spring (back), e Javascript + React (front).</li>
-  <li>🚀 Acredito muito na importância do compartilhamento de conhecimentos na área e sempre me diverti muito com criação de conteúdos. Foi assim que surgiu a <a href="https://www.instagram.com/station.dev/">DEV Station</a>: um perfil no Instagram e canal no Youtube com conteúdos sobre programação - meu xodó :)</li>
-  <li>📍 Porto Alegre - Rio Grande do Sul</li>
+  <p>💻 Opa!! Meu nome é Yasmin, tenho 17 anos e atualmente trabalho como dev júnior full stack na <a href="https://www.linkedin.com/company/dbserver/mycompany/">DB</a>.</p>
+  <p>🔭 No momento, minhas tecnologias mais consolidadas pelo manuseio diário no time são Java + Spring (back), e Javascript + React (front).</p>
+  <p>🚀 Acredito muito na importância do compartilhamento de conhecimentos na área e sempre me diverti muito com criação de conteúdos. Foi assim que surgiu a <a href="https://www.instagram.com/station.dev/">DEV Station</a>: um perfil no Instagram e canal no Youtube com conteúdos sobre programação - meu xodó :)</p>
+  <p>📍 Porto Alegre - Rio Grande do Sul</p>
 </ul>
 
-
+<br/>
 <img align="center" src="./images/tecnologias-novo.png" width="100%" alt="Título da seção Minha Stack" />
 <table align="center" height="255px">
   <tr>
