@@ -22,6 +22,37 @@
         </sub>
       </a>
     </td>
+        <td align="center">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/">
+        <img src="https://skillicons.dev/icons?i=ts" width="65px" alt="Typescript icon"/><br/>
+        <sub>
+          <b>
+            <pre>Typescript</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+            <td align="center">
+      <a href="https://pt-br.reactjs.org/">
+        <img src="https://skillicons.dev/icons?i=java" width="65px" alt="Java icon"/><br/>
+        <sub>
+          <b>
+            <pre>Java</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
+        </td>
+              <td align="center">
+      <a href="https://pt-br.reactjs.org/">
+        <img src="https://skillicons.dev/icons?i=kotlin" width="65px" alt="Kotlin icon"/><br/>
+        <sub>
+          <b>
+            <pre>Kotlin</pre>
+          </b>
+        </sub>
+      </a>
+    </td>
     <td align="center">
       <a href="https://pt-br.reactjs.org/">
         <img src="https://skillicons.dev/icons?i=react" width="65px" alt="React icon"/><br/>
@@ -34,15 +65,14 @@
     </td>
         <td align="center">
       <a href="https://pt-br.reactjs.org/">
-        <img src="https://skillicons.dev/icons?i=java" width="65px" alt="React icon"/><br/>
+        <img src="https://skillicons.dev/icons?i=angular" width="65px" alt="Angular icon"/><br/>
         <sub>
           <b>
-            <pre>Java</pre>
+            <pre>Angular</pre>
           </b>
         </sub>
       </a>
     </td>
-        </td>
         <td align="center">
       <a href="https://pt-br.reactjs.org/">
         <img src="https://skillicons.dev/icons?i=spring" width="65px" alt="React icon"/><br/>
@@ -73,6 +103,8 @@
         </sub>
       </a>
     </td>
+      </tr>
+  <tr>
     <td align="center">
       <a href="https://code.visualstudio.com/">
         <img src="https://skillicons.dev/icons?i=git" width="65px" alt="visual studio code icon"/><br/>
@@ -103,8 +135,6 @@
       </sub>
       </a>
     </td>
-  </tr>
-  <tr>
 <td align="center">
       <a href="https://axios-http.com/docs/intro">
       <img src="https://avatars.githubusercontent.com/u/874086?s=280&v=4" width="65px" alt="Axios icon"/><br/>
