@@ -2,9 +2,7 @@
 <img align="center" src="./images/sobre-mim-novo.png" width="100%" alt="Título da seção Sobre Mim" />
 <img align="right" src="./images/lofi-girl.gif" border="2" width="372px" height="278px" alt="Garoto sentado em frente a um monitor em um quarto escuro" />
 <ul>
-  <p>💻 Opa!! Meu nome é Yasmin, tenho 20 anos e atuo como dev júnior full stack na <a href="https://www.linkedin.com/company/dbserver/mycompany/">DB</a> desde 2021.</p>
-  <p>🔭 No momento, minhas tecnologias mais consolidadas pelo manuseio diário no time são Java + Spring (back), e Javascript + React (front).</p>
-  <p>🚀 Acredito muito na importância do compartilhamento de conhecimentos na área e sempre me diverti muito com criação de conteúdos. Foi assim que surgiu a <a href="https://www.instagram.com/station.dev/">DEV Station</a>: um perfil no Instagram e canal no Youtube com conteúdos sobre programação - meu xodó :)</p>
+  <p>💻 Opa!! Meu nome é Yasmin, tenho 20 anos e atuo como dev pleno full stack na <a href="https://www.linkedin.com/company/dbserver/mycompany/">DB</a> desde 2021.</p>
   <p>📍 Porto Alegre - Rio Grande do Sul</p>
 </ul>
 
@@ -202,22 +200,9 @@
 <img align="center" src="./images/redes-noco.png" width="100%" alt="Título da seção Contato" />
 <br/>
 <p align="center">
-    <a href="https://www.youtube.com/channel/UCYRnsNOlPGPYVEsp2Rzl-EA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/station.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:yasmincastrosza@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/castro-yasmin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </p>
 <br/>
-
-<img align="center" src="./images/projetos-novo.png" width="100%" alt="Título da seção Projetos" />
-<table height="90px" align="center">
-  <tr>
-    <td>
-    </td>
-  </tr>
-</table>
-
-<img align="center" src="./images/atividades-novo.png" width="100%" alt="Título da seção Atividade" />
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ysncastro&theme=tokyo-night&hide_border=true&show_icons=true&custom_title=Grafico%20de%20Contribuicao" />
-
